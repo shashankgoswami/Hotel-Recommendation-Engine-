@@ -1,4 +1,4 @@
-# Hotel-Recommendation-Engine-
+# Hotel Recommendation Engine
 1) Collated data by scraping 4000 customer reviews from TripAdvisor using Selenium web driver, enabling data preparation. 
 
 2) Cleansed the data by Stopwords removal, Stemming and Lemmatizing reviews using NLTK, shrinking text corpus by 30%. 
